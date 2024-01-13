@@ -13,7 +13,8 @@
 
 
 assignment no 11 string 10 method or property
-assignment no 12 list  print , CRUD
+assignment no 12 list  print , create,read,update,delete
+assignment no 13 Map print , create,read,update,delete
 
 
 
